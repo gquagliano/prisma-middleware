@@ -1,0 +1,39 @@
+{
+  "name": "@gquagliano/prisma-middleware",
+  "version": "1.0.0",
+  "description": "Useful middlewares for Prisma ORM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gquagliano/prisma-middleware.git"
+  },
+  "keywords": [
+    "prisma",
+    "orm",
+    "middleware",
+    "cast",
+    "types",
+    "autocast",
+    "auto type cast",
+    "parseint",
+    "soft delete",
+    "delete",
+    "deletedat",
+    "deleted date",
+    "autodates",
+    "auto dates",
+    "createdat",
+    "created date",
+    "upsatedat",
+    "updated date"
+  ],
+  "author": "gquagliano",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/gquagliano/prisma-middleware/issues"
+  },
+  "homepage": "https://github.com/gquagliano/prisma-middleware#readme"
+}
